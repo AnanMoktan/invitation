@@ -1,151 +1,143 @@
 h1 {
-  color:#66BFBF;
+  color: #66BFBF;
   margin: 0 auto 0 auto;
-  width: 40%;
+  width: 50%;
   font-family: 'Sacramento', cursive;
   font-size: 562.5%;
-  line-height:1;
+  line-height: 1;
 }
-h2
-{
-  color:#66BFBF;
+
+h2 {
+  color: #66BFBF;
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
   padding-bottom: 10px;
 }
 
-p
-{
-    line-height: 2;
+p {
+  line-height: 2;
 }
-hr
-{
+
+hr {
   border: dotted #Eaf9f6 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
 }
-h3
-{
-  color:#11999e;
+
+h3 {
+  color: #11999e;
 }
-a
-{
-  color:#11999e;
+
+a {
+  color: #11999e;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
-  text-decoration:none;
+  text-decoration: none;
 }
-a:hover
-{
-  color:#eaf6f6;
+
+a:hover {
+  color: #eaf6f6;
 }
 
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif; ;
-  color:#40514e;
+  font-family: 'Merriweather', serif;
+  ;
+  color: #40514e;
 }
-.rama
-{
-  width:192px;
-  height:192px;
+
+.rama {
+  width: 192px;
+  height: 192px;
 }
-.contact-message
-{
+
+.contact-message {
   width: 30%;
   margin: 40px auto 60px;
 }
-.copyright
-{
-  color:#eaf6f6;
+
+.copyright {
+  color: #eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
 .top-container {
-  margin:0;
   background-color: #CCF3EE;
   padding-top: 100px;
   position: relative;
 }
-.middle-container
-{
+
+.middle-container {
   margin: 100px 0;
 }
-.bottom-container
-{
-  margin:20px 0;
+
+.bottom-container {
+  margin: 20px 0;
   background-color: #66bfbf;
   padding: 50px 0 20px;
 }
-.skill-row
-{
+
+.skill-row {
   width: 50%;
-
-  margin:100px auto 100px auto;
-  text-align:left;
+  margin: 100px auto 100px auto;
+  text-align: left;
   line-height: 2;
-
-}
-.cardec
-{
-
-  width: 20%;
-  height:40%;
-position:absolute;
-left:2rem;
-
-
 }
 
-.skills
-{
+.cardec {
+  width: 10%;
+  height: 30%;
+  position: absolute;
+  left: 2px;
+}
 
-
+.skills {
   background-color: #FCE2DB;
-  height:170%
+  height: 170%
 }
 
-.giphy-embed
-{
+.giphy-embed {
   width: 25%;
+  float: left;
+}
 
-  float:left;
-}
-.giphy-embed1
-{
+.giphy-embed1 {
   width: 25%;
-  float:right;
+  float: right;
 }
+
 .cloud1 {
   height: 200px;
   width: 200px;
   position: absolute;
-  right: 300px;
+  right: 10px;
   top: 50px;
 }
-.audio
-{
-  position:absolute;
+
+.audio {
+  position: absolute;
 }
+
 .cloud2 {
   height: 200px;
   width: 200px;
   position: absolute;
-  left: 300px
+  left: 10px
 }
 
 .pro {
   text-decoration: underline;
   background-color: #AFB4FF;
 }
-.intro
-{
-  width:30%;
-  margin:auto;
 
+.intro {
+  width: 30%;
+  margin: auto;
 }
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
