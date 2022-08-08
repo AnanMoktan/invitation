@@ -11,7 +11,7 @@ h2 {
   color: #66BFBF;
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
-  font-size: 200%;
+  font-size: 160%;
   padding-bottom: 10px;
 }
 
@@ -118,11 +118,11 @@ body {
 }
 
 .cloud1 {
-  height: 200px;
+  height: 160px;
   width: 200px;
   position: absolute;
-  right: 10px;
-  top: 50px;
+  right: 5px;
+  top: 2px;
 }
 
 .audio {
